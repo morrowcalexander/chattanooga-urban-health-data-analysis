@@ -1,0 +1,146 @@
+Health Indicator,Estimate Value,Percent Value
+EMPLOYMENT STATUS,,
+    Population 16 years and over,"148,496","148,496"
+        In labor force,"95,506",64.3%
+            Civilian labor force,"95,398",64.2%
+                Employed,"90,692",61.1%
+                Unemployed,"4,706",3.2%
+            Armed Forces,108,0.1%
+        Not in labor force,"52,990",35.7%
+    Civilian labor force,"95,398","95,398"
+        Unemployment Rate,(X),4.9%
+    Females 16 years and over,"78,353","78,353"
+        In labor force,"46,256",59.0%
+            Civilian labor force,"46,250",59.0%
+                Employed,"44,002",56.2%
+    Own children of the householder under 6 years,"13,017","13,017"
+        All parents in family in labor force,"9,222",70.8%
+    Own children of the householder 6 to 17 years,"22,309","22,309"
+        All parents in family in labor force,"16,244",72.8%
+COMMUTING TO WORK,,
+    Workers 16 years and over,"88,820","88,820"
+"        Car, truck, or van -- drove alone","66,193",74.5%
+"        Car, truck, or van -- carpooled","8,017",9.0%
+        Public transportation (excluding taxicab),993,1.1%
+        Walked,"1,736",2.0%
+        Other means,"1,289",1.5%
+        Worked from home,"10,592",11.9%
+        Mean travel time to work (minutes),18.7,(X)
+OCCUPATION,,
+    Civilian employed population 16 years and over,"90,692","90,692"
+"        Management, business, science, and arts occupations","37,246",41.1%
+        Service occupations,"15,957",17.6%
+        Sales and office occupations,"18,281",20.2%
+"        Natural resources, construction, and maintenance occupations","5,731",6.3%
+"        Production, transportation, and material moving occupations","13,477",14.9%
+INDUSTRY,,
+    Civilian employed population 16 years and over,"90,692","90,692"
+"        Agriculture, forestry, fishing and hunting, and mining",415,0.5%
+        Construction,"5,321",5.9%
+        Manufacturing,"11,709",12.9%
+        Wholesale trade,"1,639",1.8%
+        Retail trade,"9,982",11.0%
+"        Transportation and warehousing, and utilities","6,475",7.1%
+        Information,"1,012",1.1%
+"        Finance and insurance, and real estate and rental and leasing","7,558",8.3%
+"        Professional, scientific, and management, and administrative and waste management services","9,967",11.0%
+"        Educational services, and health care and social assistance","19,317",21.3%
+"        Arts, entertainment, and recreation, and accommodation and food services","10,849",12.0%
+"        Other services, except public administration","4,256",4.7%
+        Public administration,"2,192",2.4%
+CLASS OF WORKER,,
+    Civilian employed population 16 years and over,"90,692","90,692"
+        Private wage and salary workers,"76,291",84.1%
+        Government workers,"9,745",10.7%
+        Self-employed in own not incorporated business workers,"4,481",4.9%
+        Unpaid family workers,175,0.2%
+INCOME AND BENEFITS (IN 2023 INFLATION-ADJUSTED DOLLARS),,
+    Total households,"77,916","77,916"
+"        Less than $10,000","4,536",5.8%
+"        $10,000 to $14,999","4,187",5.4%
+"        $15,000 to $24,999","5,883",7.6%
+"        $25,000 to $34,999","6,845",8.8%
+"        $35,000 to $49,999","11,413",14.6%
+"        $50,000 to $74,999","12,923",16.6%
+"        $75,000 to $99,999","9,214",11.8%
+"        $100,000 to $149,999","11,155",14.3%
+"        $150,000 to $199,999","4,933",6.3%
+"        $200,000 or more","6,827",8.8%
+        Median household income (dollars),"61,028",(X)
+        Mean household income (dollars),"91,288",(X)
+        With earnings,"59,817",76.8%
+            Mean earnings (dollars),"94,586",(X)
+        With Social Security,"23,605",30.3%
+            Mean Social Security income (dollars),"22,805",(X)
+        With retirement income,"16,752",21.5%
+            Mean retirement income (dollars),"28,390",(X)
+        With Supplemental Security Income,"3,535",4.5%
+            Mean Supplemental Security Income (dollars),"10,857",(X)
+        With cash public assistance income,"1,451",1.9%
+            Mean cash public assistance income (dollars),"3,822",(X)
+        With Food Stamp/SNAP benefits in the past 12 months,"10,035",12.9%
+    Families,"42,388","42,388"
+"        Less than $10,000","2,061",4.9%
+"        $10,000 to $14,999","1,239",2.9%
+"        $15,000 to $24,999","1,791",4.2%
+"        $25,000 to $34,999","3,177",7.5%
+"        $35,000 to $49,999","4,569",10.8%
+"        $50,000 to $74,999","6,803",16.0%
+"        $75,000 to $99,999","5,675",13.4%
+"        $100,000 to $149,999","7,879",18.6%
+"        $150,000 to $199,999","3,810",9.0%
+"        $200,000 or more","5,384",12.7%
+        Median family income (dollars),"80,107",(X)
+        Mean family income (dollars),"115,328",(X)
+    Per capita income (dollars),"40,040",(X)
+    Nonfamily households,"35,528","35,528"
+        Median nonfamily income (dollars),"42,245",(X)
+        Mean nonfamily income (dollars),"59,535",(X)
+    Median earnings for workers (dollars),"40,081",(X)
+"    Median earnings for male full-time, year-round workers (dollars)","55,094",(X)
+"    Median earnings for female full-time, year-round workers (dollars)","46,364",(X)
+HEALTH INSURANCE COVERAGE,,
+    Civilian noninstitutionalized population,"179,956","179,956"
+        With health insurance coverage,"158,989",88.3%
+            With private health insurance,"113,269",62.9%
+            With public coverage,"65,053",36.1%
+        No health insurance coverage,"20,967",11.7%
+    Civilian noninstitutionalized population under 19 years,"40,543","40,543"
+        No health insurance coverage,"2,342",5.8%
+    Civilian noninstitutionalized population 19 to 64 years,"109,247","109,247"
+        In labor force:,"86,949","86,949"
+            Employed:,"82,808","82,808"
+                With health insurance coverage,"70,490",85.1%
+                    With private health insurance,"65,992",79.7%
+                    With public coverage,"6,254",7.6%
+                No health insurance coverage,"12,318",14.9%
+            Unemployed:,"4,141","4,141"
+                With health insurance coverage,"2,910",70.3%
+                    With private health insurance,"1,815",43.8%
+                    With public coverage,"1,218",29.4%
+                No health insurance coverage,"1,231",29.7%
+        Not in labor force:,"22,298","22,298"
+            With health insurance coverage,"17,758",79.6%
+                With private health insurance,"9,714",43.6%
+                With public coverage,"9,347",41.9%
+            No health insurance coverage,"4,540",20.4%
+PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL,,
+    All families,(X),12.4%
+        With related children of the householder under 18 years,(X),18.7%
+            With related children of the householder under 5 years only,(X),10.3%
+        Married couple families,(X),5.1%
+            With related children of the householder under 18 years,(X),6.9%
+                With related children of the householder under 5 years only,(X),3.0%
+"        Families with female householder, no spouse present",(X),28.3%
+            With related children of the householder under 18 years,(X),35.1%
+                With related children of the householder under 5 years only,(X),29.2%
+    All people,(X),17.6%
+        Under 18 years,(X),28.1%
+            Related children of the householder under 18 years,(X),27.8%
+                Related children of the householder under 5 years,(X),28.7%
+                Related children of the householder 5 to 17 years,(X),27.4%
+        18 years and over,(X),14.8%
+            18 to 64 years,(X),15.4%
+            65 years and over,(X),12.8%
+        People in families,(X),15.4%
+        Unrelated individuals 15 years and over,(X),23.3%

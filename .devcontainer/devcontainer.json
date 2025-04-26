@@ -1,0 +1,13 @@
+{
+    "name": "Python Development Environment",
+    "image": "mcr.microsoft.com/devcontainers/python:3.11",
+    "postCreateCommand": "pip install pandas plotly jupyter",
+    "customizations": {
+      "vscode": {
+        "settings": {
+          "python.defaultInterpreterPath": "/usr/local/bin/python"
+        }
+      }
+    }
+  }
+  
